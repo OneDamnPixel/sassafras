@@ -1,0 +1,17 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {}
+
+img,
+svg {
+    vertical-align: middle;
+    max-width: 100%;
+}
